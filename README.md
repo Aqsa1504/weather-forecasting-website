@@ -8,5 +8,5 @@ A simple and elegant weather website with a modern UI, featuring a searchable ci
 
 
 🚀 Technologies Used:
-HTML, CSS, JavaScript (Frontend)
-Weather API (for fetching weather data)
+.HTML, CSS, JavaScript (Frontend)
+.Weather API (for fetching weather data)
